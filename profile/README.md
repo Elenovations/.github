@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 Hier, we are analyzing earth magnetic fields data from different stations using various data analysis and ML methods. The existing repos are as follow:
-- Elenovations.github.io: The source of our website which contains the visualizations of results.
-- observatory-data-storage: The most of our scripts can be found here. We need to clean and document it. 
+- [Elenovations.github.io](https://github.com/Elenovations/Elenovations.github.io): The source of our website which contains the visualizations of results.
+- [observatory-data-storage](https://github.com/Elenovations/observatory-data-storage): The most of our scripts can be found here. We need to clean and document it. 
 
 <!--
 
